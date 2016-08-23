@@ -1,0 +1,19 @@
+{
+  "name": "hubot-chrysus-dispatcher",
+  "version": "0.8.5",
+  "description": "ChatOps Chrysus Dispatcher module",
+  "main": "index.cofee",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [],
+  "author": "Ernest G. Wilson II <Ernest.Wilson@ctl.io> (https://github.com/ernestgwilsonii)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrysus-io/hubot-chrysus-dispatcher.git"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
